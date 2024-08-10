@@ -1,7 +1,3 @@
-Certainly! Here's the updated documentation with a more sophisticated and luxurious tone:
-
----
-
 <!-- markdownlint-enable -->
 # EpicChain Private Networks
 
