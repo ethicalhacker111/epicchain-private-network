@@ -158,5 +158,3 @@ Please visit the [issues page](https://github.com/epicchainlabs/epicchain-privat
 ## License
 
 EpicChain Private Networks and EpicChain Trace are distributed under the [MIT License](https://github.com/epicchainlabs/epicchain-private-network#MIT-1-ov-file).
-
----
