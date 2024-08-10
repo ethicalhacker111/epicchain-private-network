@@ -143,7 +143,7 @@ For an in-depth understanding of EpicChain Private Networks' capabilities, pleas
   epictrace tx 0xef1917b8601828e1d2f3ed0954907ea611cb734771609ce0ce2b654bb5c78005 --rpc-uri testnet
   ```
 
-> Note: EpicChain Trace relies on the [StateService plugin module](https://github.com/epicchainlabs/epicchain-modules/tree/master/src/StateService) configured with `FullState` enabled. Official JSON-RPC nodes for MainNet and TestNet (e.g., `http://seed1.epic-chain.org:10332` and `http://seed1t5.epic-chain.org:20332`) are equipped to run the StateService plugin with `FullState` enabled.
+> Note: EpicChain Trace relies on the [StateService plugin module](https://github.com/epicchainlabs/epicchain-modules/tree/master/src/StateService) configured with `FullState` enabled. Official JSON-RPC nodes for MainNet and TestNet (e.g., `http://mainnet1-seed.epic-chain.org:10111` and `http://seed1t5.epic-chain.org:20332`) are equipped to run the StateService plugin with `FullState` enabled.
 
 ## New Features or Issues
 
